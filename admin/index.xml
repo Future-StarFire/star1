@@ -1,0 +1,5 @@
+<beans>
+	<bean id="bookDao">
+		<property>com.star.util.PageBean</property>
+	</bean>
+</beans>
